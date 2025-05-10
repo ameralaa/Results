@@ -22,10 +22,10 @@ Purpose: These results are shared as a proof of concept for a potential breakthr
 Dataset
 This repository contains the following files:
 
-File 1(132k): A set of numbers, each with a length of 800,000 digits, none of which are divisible by the first 132,000 prime numbers or any of their multiples.
-File 2(50k): A set of numbers, each with a length of 500,000 digits, none of which are divisible by the first 50,000 prime numbers or any of their multiples.
-File 3(10k): A set of numbers, each with a length of 60,000 digits, none of which are divisible by the first 10,000 prime numbers or any of their multiples.
-File 4(5k): A set of numbers, each with a length of 30,000 digits, none of which are divisible by the first 5,000 prime numbers or any of their multiples.
+File 1(results132k): A set of numbers, each with a length of 800,000 digits, none of which are divisible by the first 132,000 prime numbers or any of their multiples.
+File 2(results50k): A set of numbers, each with a length of 500,000 digits, none of which are divisible by the first 50,000 prime numbers or any of their multiples.
+File 3(results10k): A set of numbers, each with a length of 60,000 digits, none of which are divisible by the first 10,000 prime numbers or any of their multiples.
+File 4(results5k): A set of numbers, each with a length of 30,000 digits, none of which are divisible by the first 5,000 prime numbers or any of their multiples.
 Each number has been rigorously verified to not be divisible by its corresponding set of primes or their multiples.
 
 Verification Process
