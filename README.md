@@ -1,11 +1,15 @@
 # Results
 
 Results of Large Non-Divisible Numbers
+
 Introduction
+
 This repository contains a set of numbers that have been generated under a unique mathematical property: these numbers do not divide by specific sets of prime numbers or their multiples (including products and powers). The primary purpose of sharing these results is to present a potential breakthrough in number generation that combines both deterministic results and randomness in its calculations, which may have significant implications for cryptography and other computational fields.
 
 About the Numbers
-Size: The numbers in this dataset are substantial, with lengths varying from several hundred thousand to millions of digits, providing a significant computational challenge for analysis and verification.
+
+Size: 
+The numbers in this dataset are substantial, with lengths varying from several hundred thousand to millions of digits, providing a significant computational challenge for analysis and verification.
 Non-Divisibility: Each number in the dataset does not divide by a specific set of prime numbers or any of their multiples, including their products and powers. The sets include:
 Numbers that do not divide by the first 132,000 primes or any of their multiples.
 Numbers that do not divide by the first 50,000 primes or any of their multiples.
@@ -13,9 +17,11 @@ Numbers that do not divide by the first 10,000 primes or any of their multiples.
 Numbers that do not divide by the first 5,000 primes or any of their multiples.
 Each file contains a different set of numbers, with varying lengths and prime divisibility constraints.
 
-Direct Generation: These numbers were generated directly using a new method that combines deterministic outcomes with random components, ensuring that the numbers are not divisible by the specified primes, their multiples, or any of their powers without using traditional divisibility tests or predefined divisors.
+Direct Generation: 
+These numbers were generated directly using a new method that combines deterministic outcomes with random components, ensuring that the numbers are not divisible by the specified primes, their multiples, or any of their powers without using traditional divisibility tests or predefined divisors.
 
-Computational Efficiency: The results were generated using an average laptop with processing power that allows for fast computation. The numbers were produced in a very short time frame, ranging from a few seconds to a maximum of 1 minutes per 1000 number , depending on the length and complexity. This demonstrates the efficiency of the underlying algorithm.
+Computational Efficiency: 
+The results were generated using an average laptop with processing power that allows for fast computation. The numbers were produced in a very short time frame, ranging from a few seconds to a maximum of 1 minutes per 1000 number , depending on the length and complexity. This demonstrates the efficiency of the underlying algorithm.
 
 Purpose: These results are shared as a proof of concept for a potential breakthrough in the generation of large numbers that exhibit certain non-divisibility properties. They may influence future research in number theory, cryptography, and computational mathematics.
 
@@ -36,9 +42,15 @@ The verification process involved directly confirming that none of the numbers i
 Research Context
 The discovery of such numbers presents an opportunity to explore new avenues in computational mathematics, encryption, and random number generation. The non-divisibility property of these numbers suggests that they could have future applications in domains like:
 
-Cryptography: Enhancing key generation, digital signatures, or random number generators.
-Number Theory: Providing new insights into the behavior of large numbers and divisibility.
-Computational Efficiency: Potential optimizations in computational processes that handle very large integers.
+Cryptography: 
+Enhancing key generation, digital signatures, or random number generators.
+
+Number Theory: 
+Providing new insights into the behavior of large numbers and divisibility.
+
+Computational Efficiency: 
+Potential optimizations in computational processes that handle very large integers.
+
 Disclaimer
 No Full Explanation: The method of generating these numbers has not been disclosed to protect the underlying algorithm's integrity. The numbers presented here serve as a proof of concept.
 Not for Direct Cryptographic Use: While these numbers exhibit unique properties, they are not intended for immediate use in production-level cryptographic systems. Further research and validation are necessary before any application.
@@ -47,4 +59,8 @@ We aim to work with the academic and cryptographic communities to explore the im
 
 Contact
 For further discussions or to collaborate on future research, feel free to reach out via email at [ameralaah99@gmail.com].
+
+Note on Sample Size
+
+Due to space constraints, the current dataset contains a limited number of samples. However, there is no issue in increasing the sample size. Additional numbers can be generated upon request, and the methodology used allows for easy expansion of the dataset. The current dataset serves as an initial proof of concept, and larger datasets can be made available as needed.
 
