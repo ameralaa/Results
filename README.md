@@ -58,7 +58,7 @@ Future Work
 We aim to work with the academic and cryptographic communities to explore the implications of these numbers. We hope this repository sparks further research and collaboration, which could potentially lead to the development of more robust cryptographic systems or mathematical theories.
 
 Contact
-For further discussions or to collaborate on future research, feel free to reach out via email at [ameralaah99@gmail.com].
+For further discussions or to collaborate on future research, feel free to reach out via email at ameralaah99@gmail.com.
 
 Note on Sample Size
 
